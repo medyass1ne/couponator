@@ -23,24 +23,6 @@ By using the Bot, you represent and warrant that: (1) you have the legal capacit
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Bot (or any portion thereof).
 
-Fees and Payment
-We accept the following forms of payment:
-
-Visa
-Mastercard
-American Express
-PayPal
-You may be required to purchase or pay a fee to access some of our services. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the website. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. We bill you through an online billing account for purchases made via the website. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time.
-
-You agree to pay all charges or fees at the prices then in effect for your purchases, and you authorize us to charge your chosen payment provider for any such amounts upon making your purchase. If your purchase is subject to recurring charges, then you consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you perform an online cancellation.
-
-We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment. We also reserve the right to refuse any order placed through the website. The perks associated with our recurring subscriptions are subject to change in any way or form, even while a subscription is still ongoing.
-
-Cancellation
-You can cancel your subscription at any time on the website. Your cancellation will take effect immediately.
-
-If you are unsatisfied with our services, please email us at support@lawlietbot.xyz and we may offer you a refund.
-
 Prohibited Activities
 You may not access or use the Bot for any purpose other than that for which we make the Bot available. The Bot may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
